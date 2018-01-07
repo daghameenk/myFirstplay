@@ -3,3 +3,4 @@ First file
 Khalid daghameen
 
 I am from Hebron/ palestine
+I am submitting a proposed change in this example
